@@ -1,4 +1,4 @@
-# Exporatory data analysis, EDA
+# Exploratory data analysis, EDA
 Stages of conducting the study:
 * Checking data for obvious errors, typos, incorrect coding;
 * Checking for missing data (including specifically coded data) and their potential impact on the analysis result;
